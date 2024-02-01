@@ -16,3 +16,16 @@ body{
     background-size: cover;
     background-position: center center;
 }
+
+.menu-titulos {
+    color: white;
+    text-align: center;
+    font-feature-settings: "clig"off, 'liga';
+    font-family: "SF Pro Display";
+    font-size: 17.197px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.447px;
+    letter-spacing: 0.762px;
+    margin-top: 10px !important;
+}
